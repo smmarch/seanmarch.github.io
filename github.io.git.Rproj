@@ -11,3 +11,5 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+
+Making changes to test uploading them from the R studio interface.
